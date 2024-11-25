@@ -1,6 +1,6 @@
 <script lang="ts">
 	import '@/app.css';
-	import '@glidejs/glide/dist/css/glide.core.min.css';
+	import '@splidejs/svelte-splide/css';
 
 	let { children } = $props();
 </script>
